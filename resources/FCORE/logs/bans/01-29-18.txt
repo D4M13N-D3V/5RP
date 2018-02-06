@@ -1,0 +1,3 @@
+//Ban logs for 01-29-18
+01-29-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[21:54]trae young | steam:11000010c1f971e | license:e671dbcdd05023863742c6728035a511aa3d7ef6 | Permanent | Mass RDM ( Including EMS ) | Damien

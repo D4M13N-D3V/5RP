@@ -1,0 +1,5 @@
+//Ban logs for 12-14-17
+12-14-17Display Name | Identifier | License | Duration | Reason | Banned By 
+[13:50]MrGenku | steam:11000010944c6a0 | license:31735cbf292b9602f979a09a578a30e2c8857dfa | 1000 second(s) | clearly an idiot  | Khaleesi
+[16:12]Gooberz | steam:11000010325f9f6 | license:0bf24a4e16ab8765a0111fee4881006f2cca7f87 | 100 hour(s) | wrong server to be doing that in | Vector003
+[22:21]Neon | steam:11000010af394d6 | license:fbd8432da847f423676cc4593e909198d8a64282 | Forever | [ANTI-CHEAT] (Illegal vehicle) [savage] | Anti-Cheat

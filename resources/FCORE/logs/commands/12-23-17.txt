@@ -1,0 +1,3 @@
+//Command logs for 12-23-17
+[01:50]User (Khaleesi) ran admin command spawn, with parameters: spawn stunt
+[22:40]User (Neku) ran admin command dv, with parameters: dv

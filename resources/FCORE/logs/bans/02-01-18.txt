@@ -1,0 +1,4 @@
+//Ban logs for 01-31-18
+01-31-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[21:26]Sam Hyde | steam:110000100001929 | license:474740c59e883377c1c72a9e708c3b504967792c | Forever | [ANTI-CHEAT] (Illegal vehicle) [rhino] | Anti-Cheat
+[13:34]StefanGM | steam:11000010de0282b | license:7cee6024b2fb7b99ee345e101d60af5e1786ac58 | 24 hour(s) | Combat logging sessioning abuse, please dont abuse glitches, as well as read the rules on the discord >>> https://discord.gg/QteHrXS | Aidan Biden

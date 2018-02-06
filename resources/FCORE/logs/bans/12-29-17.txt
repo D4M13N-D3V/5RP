@@ -1,0 +1,3 @@
+//Ban logs for 12-28-17
+12-28-17Display Name | Identifier | License | Duration | Reason | Banned By 
+[20:48]I am Isaiah | steam:110000104f124ac | license:494435000290ff42cc5a734db2cc2b48dbd89758 | 9999999 second(s) | VDM | Neku

@@ -1,0 +1,13 @@
+//Command logs for 01-05-18
+[07:19]User (Vector003) ran admin command dv, with parameters: dv
+[09:39]User (Aidan Biden) tried to execute command without having permission: spawn
+[10:00]User (Aidan Biden) ran admin command dv, with parameters: dv
+[21:26]User (Neku) ran admin command dv, with parameters: dv
+[04:42]User (Moxieperson) ran admin command dv, with parameters: dv
+[12:32]User (Aidan Biden) ran admin command dv, with parameters: dv
+[21:44]User (Khaleesi) ran admin command announce, with parameters: announce Server restarts in 2 minutes
+[21:56]User (Palace) ran admin command spawn, with parameters: spawn sultan
+[06:35]User (Spudooty) ran admin command goto, with parameters: goto 130
+[21:46]User (Neon) ran admin command announce, with parameters: announce 10 secs!
+[05:39]User (Neon) ran admin command dv, with parameters: dv
+[21:12]User (Neku) ran admin command dv, with parameters: dv

@@ -1,0 +1,4 @@
+//Ban logs for 02-03-18
+02-03-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[12:49]Cheesecake Makes Katarina Happy | steam:11000010cc5ff86 | license:79caa3703a976b5e69ea601cecedd52d37eacfac | Permanent | Hacking. | Palace
+[16:18]Mrs.R6 | steam:110000115019e74 | license:8db38114de3342a162a4ca58f2daaa43e0dd19cb | Permanent | RDM of EMS x2 https://discord.gg/KHZFKqn appeal if ya want | Spudoodles

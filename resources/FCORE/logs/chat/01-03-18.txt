@@ -1,0 +1,10 @@
+//Chat logs for 01-01-18
+[10:29]::DaD1951: is there seatbelts one here?
+[01:03]::AeonStryfe: /tweet Hey Jones, You around?
+[01:34]::Neon: hop in that tow truck
+[01:57]::OG-Fool: /revive
+[04:57]::OG-Fool: /spawn chevelle1970
+[05:31]::OG-Fool: /dv
+[14:46]::OG-Fool: /dv
+[15:30]::OG-Fool: /dv
+[16:06]::Vector003: /spawn 1200rt

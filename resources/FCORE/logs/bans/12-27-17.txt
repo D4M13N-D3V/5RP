@@ -1,0 +1,5 @@
+//Ban logs for 12-24-17
+12-24-17Display Name | Identifier | License | Duration | Reason | Banned By 
+[21:33]Dale Underwood | steam:11000011704283b | license:e29f9cba80fea9c17434bc0a4fae4e11f8576cfc | Forever | [ANTI-CHEAT] (Illegal vehicle) [boxville5] | Anti-Cheat
+[18:32]JohnWick | steam:1100001177f73f7 | license:33c916fc49dffda661a2bce3a0de06098075888d | 99999999999999999999999999999999 hour(s) | RDM and continued Argumenting | Neon
+[13:41]Dale Underwood | steam:11000011704283b | license:e29f9cba80fea9c17434bc0a4fae4e11f8576cfc | 48 hour(s) | FailRp | OG-Fool

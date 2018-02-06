@@ -1,0 +1,17 @@
+//Command logs for 12-10-17
+[12:30]User (Alex O'Connor) ran admin command copadd, with parameters: copadd 1 Chief of police
+[12:58]User (Alex O'Connor) ran admin command dv, with parameters: dv
+[08:52]User (MrShmukels09) ran admin command spawn, with parameters: spawn lasd2
+[12:32]User (MrShmukels09) ran admin command dv, with parameters: dv
+[13:12]User (MrShmukels09) ran admin command spawn, with parameters: spawn adder
+[16:47]User (MrShmukels09) ran admin command spawn, with parameters: spawn adder
+[18:56]User (MrShmukels09) ran admin command goto, with parameters: goto 3
+[20:18]User (WB_Merica) ran admin command dv, with parameters: dv
+[05:59]User (Spudooty) ran admin command noclip, with parameters: noclip
+[10:40]User (Khaleesi) ran admin command emsadd, with parameters: emsadd 40 EMS Chief
+[12:31]User (WB_Merica) ran admin command dv, with parameters: dv
+[22:09]User (WB_Merica) ran admin command dv, with parameters: dv
+[15:46]User (WB_Merica) ran admin command dv, with parameters: dv
+[18:43]User (Spudooty) ran admin command announce, with parameters: announce SERVER IS RESTARTING
+[21:01]User (Spudooty) ran admin command dv, with parameters: dv
+[23:52]User (Vector003) ran admin command spawn, with parameters: spawn polmav

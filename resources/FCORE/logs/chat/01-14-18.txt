@@ -1,0 +1,4 @@
+//Chat logs for 01-14-18
+[15:45]::Palace: /me brb
+[22:55]::Aidan Biden: /dv
+[23:59]::AeonStryfe: /tweet Disreguard McGarret. Hold on.

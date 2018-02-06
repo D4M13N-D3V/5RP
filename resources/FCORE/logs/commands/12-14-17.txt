@@ -1,0 +1,6 @@
+//Command logs for 12-14-17
+[03:20]User (Vector003) ran admin command dv, with parameters: dv
+[15:32]User (AeonStryfe) tried to execute command without having permission: announce
+[21:20]User (Neon) ran admin command dv, with parameters: dv
+[22:21]User (Neon) ran admin command spawn, with parameters: spawn savage
+[23:57]User (Neon) ran admin command spawn, with parameters: spawn stromberg

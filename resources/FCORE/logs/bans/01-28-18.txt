@@ -1,0 +1,3 @@
+//Ban logs for 01-28-18
+01-28-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[19:22]Loops | steam:1100001175172cb | license:338a85e3d86f5bd7322866a94dcabd26f7e16c85 | 24 hour(s) | RDM you know where to find me. (Neon) | Neon

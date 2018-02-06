@@ -1,0 +1,3 @@
+//Ban logs for 01-31-18
+01-31-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[21:26]Sam Hyde | steam:110000100001929 | license:474740c59e883377c1c72a9e708c3b504967792c | Forever | [ANTI-CHEAT] (Illegal vehicle) [rhino] | Anti-Cheat

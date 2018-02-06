@@ -1,0 +1,20 @@
+//Command logs for 01-20-18
+[06:57]User (MrShmukels09) ran admin command copadd, with parameters: copadd 76 state major
+[07:29]User (Neon) ran admin command dv, with parameters: dv
+[17:22]User (Neon) ran admin command announce, with parameters: announce rapture incoming 2 mins
+[22:16]User (Neku) ran admin command dv, with parameters: dv
+[04:40]User (Palace) ran admin command spawn, with parameters: spawn hh1
+[19:53]User (Neon) ran admin command announce, with parameters: announce rapture incoming 2 mins
+[02:41]User (Spudoodles) ran admin command announce, with parameters: announce SERVER RESTART IN 10 OR SO MINUTES!!!!
+[03:23]User (Neon) ran admin command announce, with parameters: announce 30 seconds
+[20:40]User (WB_Merica) ran admin command spawn, with parameters: spawn gmt400
+[02:37]User (Vector003) ran admin command dv, with parameters: dv
+[22:16]User (Damien) ran admin command dv, with parameters: dv
+[09:42]User (Neku) ran admin command dv, with parameters: dv
+[01:40]User (WB_Merica) ran admin command dv, with parameters: dv
+[14:50]User (Neon) ran admin command dv, with parameters: dv
+[20:39]User (Neku) ran admin command dv, with parameters: dv
+[23:17]User (WB_Merica) ran admin command dv, with parameters: dv
+[00:36]User (Vector003) ran admin command dv, with parameters: dv
+[20:41]User (Aidan Biden) ran admin command dv, with parameters: dv
+[23:52]User (Aidan Biden) ran admin command noclip, with parameters: noclip

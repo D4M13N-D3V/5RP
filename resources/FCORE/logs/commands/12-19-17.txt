@@ -1,0 +1,15 @@
+//Command logs for 12-14-17
+[03:20]User (Vector003) ran admin command dv, with parameters: dv
+[15:32]User (AeonStryfe) tried to execute command without having permission: announce
+[21:20]User (Neon) ran admin command dv, with parameters: dv
+[22:21]User (Neon) ran admin command spawn, with parameters: spawn savage
+[00:24]User (Neon) ran admin command dv, with parameters: dv
+[19:33]User (Ducker) ran admin command announce, with parameters: announce sever restart in 1 min
+[20:04]User (WB_Merica) ran admin command dv, with parameters: dv
+[12:27]User (WB_Merica) ran admin command dv, with parameters: dv
+[23:47]User (Neon) ran admin command spawn, with parameters: spawn cruiser
+[05:39]User (Prodr) tried to execute command without having permission: copadd
+[22:17]User (Vector003) ran admin command spawn, with parameters: spawn ruiner2
+[01:21]User (Neku) ran admin command spawn, with parameters: spawn buzzard
+[01:46]User (Neku) ran admin command dv, with parameters: dv
+[23:57]User (Vector003) ran admin command dv, with parameters: dv

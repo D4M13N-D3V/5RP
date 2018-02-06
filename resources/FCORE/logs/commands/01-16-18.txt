@@ -1,0 +1,9 @@
+//Command logs for 01-14-18
+[15:44]User (Palace) ran admin command spawn, with parameters: spawn caddy3
+[22:55]User (Aidan Biden) ran admin command dv, with parameters: dv
+[02:39]User (Damien) ran admin command dv, with parameters: dv
+[11:41]User (Mr.Jinglesworth) tried to execute command without having permission: slay
+[21:36]User (Ducker) ran admin command announce, with parameters: announce rapture is coming in 10 mins
+[17:58]User (Neku) ran admin command spawn, with parameters: spawn police3
+[19:36]User (Neku) ran admin command emspromote, with parameters: emspromote 47 EMS Paramedic
+[23:57]User (Neku) ran admin command dv, with parameters: dv

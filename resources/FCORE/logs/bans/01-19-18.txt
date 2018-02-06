@@ -1,0 +1,3 @@
+//Ban logs for 01-19-18
+01-19-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[19:41]kobe | steam:11000010c1f971e | license:e671dbcdd05023863742c6728035a511aa3d7ef6 | 24 hour(s) | Fail RP and RDM, go to discord and talk to someone before you come back. | TarreW [Cpt-Lincoln]

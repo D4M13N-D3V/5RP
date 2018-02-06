@@ -1,0 +1,9 @@
+//Command logs for 12-14-17
+[03:20]User (Vector003) ran admin command dv, with parameters: dv
+[15:32]User (AeonStryfe) tried to execute command without having permission: announce
+[21:20]User (Neon) ran admin command dv, with parameters: dv
+[22:21]User (Neon) ran admin command spawn, with parameters: spawn savage
+[00:24]User (Neon) ran admin command dv, with parameters: dv
+[19:33]User (Ducker) ran admin command announce, with parameters: announce sever restart in 1 min
+[20:04]User (WB_Merica) ran admin command dv, with parameters: dv
+[23:29]User ([County 29] Prob. Albert V.) tried to execute command without having permission: dv

@@ -1,0 +1,25 @@
+//Chat logs for 12-10-17
+[12:30]::Alex O'Connor: /copadd 1 Chief of police
+[12:58]::Alex O'Connor: /dv
+[08:52]::MrShmukels09: /spawn lasd2
+[12:32]::MrShmukels09: /dv
+[13:12]::MrShmukels09: /spawn adder
+[16:47]::MrShmukels09: /spawn adder
+[18:56]::MrShmukels09: /goto 3
+[20:18]::WB_Merica: /dv
+[05:59]::Spudooty: /noclip
+[10:40]::Khaleesi: /emsadd 40 EMS Chief
+[12:31]::WB_Merica: /dv
+[22:09]::WB_Merica: /dv
+[15:55]::Dale Underwood: /t sup dickhead
+[18:43]::Spudooty: /announce SERVER IS RESTARTING
+[21:28]::Neku: /t stay safe fellas 
+[00:28]::Vector003: /dv
+[03:07]::Vector003: /spawn akula
+[01:40]::ajevans360: have  funn
+[03:20]::MrTimmyyTV: get in ts vector
+[15:32]::AeonStryfe: /announce Server Restart in abour 2 minutes or less! Come back and continue the fun!
+[15:43]::roboelite: /admin
+[21:20]::Neon: /dv
+[22:21]::Neon: /spawn savage
+[23:57]::Neon: /spawn stromberg

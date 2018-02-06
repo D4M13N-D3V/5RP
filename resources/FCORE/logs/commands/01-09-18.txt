@@ -1,0 +1,8 @@
+//Command logs for 01-09-18
+[00:39]User (Vector003) ran admin command copadd, with parameters: copadd 1 chief of police
+[00:59]User (Vector003) ran admin command spawn, with parameters: spawn cap94
+[01:12]User (Vector003) ran admin command spawn, with parameters: spawn cap94
+[01:36]User (Damien) ran admin command spawn, with parameters: spawn buffalo
+[01:49]User (Damien) ran admin command spawn, with parameters: spawn buffalo
+[02:00]User (Vector003) ran admin command spawn, with parameters: spawn cap94
+[04:33]User (Damien) ran admin command copadd, with parameters: copadd 2 Cadet

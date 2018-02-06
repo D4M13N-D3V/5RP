@@ -1,0 +1,3 @@
+//Ban logs for 12-28-17
+12-28-17Display Name | Identifier | License | Duration | Reason | Banned By 
+[19:45]JoWe7 | steam:110000117333f3b | license:33fae5d6855af350603e60c7b1222efab87e9564 | Forever | [ANTI-CHEAT] (Illegal vehicle) [rhino] | Anti-Cheat

@@ -1,0 +1,3 @@
+//Command logs for 01-29-18
+[15:54]User (GoogleIt) ran admin command kick, with parameters: kick 176 Change Steam Name No Websites please Join Discord to Discuss Further http://bit.ly/targaryenrp
+[22:58]User (Damien) ran admin command dv, with parameters: dv

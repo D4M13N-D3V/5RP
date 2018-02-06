@@ -1,0 +1,4 @@
+//Command logs for 12-24-17
+[22:47]User (Neku) ran admin command spawn, with parameters: spawn lguard
+[22:02]User (Neon) ran admin command spawn, with parameters: spawn statecharger
+[23:57]User (Palace) ran admin command dv, with parameters: dv

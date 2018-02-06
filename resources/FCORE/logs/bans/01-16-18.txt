@@ -1,0 +1,4 @@
+//Ban logs for 01-15-18
+01-15-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[18:30]⍟SteelWarrior | steam:110000112447b55 | license:070ebb87fafce1d930e95a2ec0dd231afbf74dd9 | 24 hour(s) | Mulitble RDM,  | TarreW [Cpt-Lincoln]
+[17:53]FOXBOT(<3gördoχ.<3) | steam:11000010a498b16 | license:a4f98388f967ffb5da042c7738f2eeb4a036264f | Permanent | Stop leaving when you get cuffed,  go to discord to get a ban appel https://discord.gg/MjeAKmX | Ducker

@@ -1,0 +1,15 @@
+//Command logs for 01-29-18
+[15:54]User (GoogleIt) ran admin command kick, with parameters: kick 176 Change Steam Name No Websites please Join Discord to Discuss Further http://bit.ly/targaryenrp
+[22:58]User (Damien) ran admin command dv, with parameters: dv
+[01:10]User (WB_Merica) ran admin command noclip, with parameters: noclip
+[02:10]User (WB_Merica) ran admin command dv, with parameters: dv
+[05:46]User (WB_Merica) ran admin command dv, with parameters: dv
+[06:25]User (WB_Merica) ran admin command dv, with parameters: dv
+[09:34]User (WB_Merica) ran admin command dv, with parameters: dv
+[09:39]User (Vector003) ran admin command dv, with parameters: dv
+[09:57]User (Vector003) ran admin command dv, with parameters: dv
+[14:22]User (Neku) ran admin command dv, with parameters: dv
+[21:20]User (Neon) ran admin command dv, with parameters: dv
+[21:50]User (Neon) ran admin command announce, with parameters: announce 60 seconds
+[21:56]User (Neon) ran admin command dv, with parameters: dv
+[23:51]User (Vector003) ran admin command dv, with parameters: dv

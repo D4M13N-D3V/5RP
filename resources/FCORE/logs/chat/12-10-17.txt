@@ -1,0 +1,10 @@
+//Chat logs for 12-10-17
+[12:30]::Alex O'Connor: /copadd 1 Chief of police
+[12:58]::Alex O'Connor: /dv
+[08:52]::MrShmukels09: /spawn lasd2
+[12:32]::MrShmukels09: /dv
+[13:12]::MrShmukels09: /spawn adder
+[16:47]::MrShmukels09: /spawn adder
+[18:56]::MrShmukels09: /goto 3
+[20:18]::WB_Merica: /dv
+[23:34]::Lozza: /dv

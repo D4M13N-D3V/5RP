@@ -1,0 +1,9 @@
+//Chat logs for 01-09-18
+[00:39]::Vector003: /copadd 1 chief of police
+[00:59]::Vector003: /spawn cap94
+[01:15]::Damien: /admin
+[01:29]::Damien: /spawn Buffalo
+[01:39]::Damien: /fix
+[01:49]::Damien: /spawn buffalo
+[02:00]::Vector003: /spawn cap94
+[04:33]::Damien: /copadd 2 Cadet

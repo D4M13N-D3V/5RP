@@ -1,0 +1,2 @@
+//Error logs for 01-11-18
+[16:27][ERROR - GUNSHOP]::Couldn't find the correct price!

@@ -1,0 +1,3 @@
+//Ban logs for 02-02-18
+02-02-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[16:55]ToastyGamerRM | steam:110000115b80acd | license:ed204572cc8cf0e69dd62a7ca8757b4c8fa13405 | Forever | [ANTI-CHEAT] (Illegal vehicle) [voltic2] | Anti-Cheat

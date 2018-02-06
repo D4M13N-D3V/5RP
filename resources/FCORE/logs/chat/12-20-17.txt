@@ -1,0 +1,37 @@
+//Chat logs for 12-10-17
+[12:30]::Alex O'Connor: /copadd 1 Chief of police
+[12:58]::Alex O'Connor: /dv
+[08:52]::MrShmukels09: /spawn lasd2
+[12:32]::MrShmukels09: /dv
+[13:12]::MrShmukels09: /spawn adder
+[16:47]::MrShmukels09: /spawn adder
+[18:56]::MrShmukels09: /goto 3
+[20:18]::WB_Merica: /dv
+[05:59]::Spudooty: /noclip
+[10:40]::Khaleesi: /emsadd 40 EMS Chief
+[12:31]::WB_Merica: /dv
+[22:09]::WB_Merica: /dv
+[15:55]::Dale Underwood: /t sup dickhead
+[18:43]::Spudooty: /announce SERVER IS RESTARTING
+[21:28]::Neku: /t stay safe fellas 
+[00:28]::Vector003: /dv
+[03:07]::Vector003: /spawn akula
+[01:40]::ajevans360: have  funn
+[03:20]::MrTimmyyTV: get in ts vector
+[15:32]::AeonStryfe: /announce Server Restart in abour 2 minutes or less! Come back and continue the fun!
+[15:43]::roboelite: /admin
+[21:20]::Neon: /dv
+[22:21]::Neon: /spawn savage
+[00:24]::Neon: /dv
+[19:37]::Ducker: not yet give it five mins
+[20:12]::WB_Merica: /t brb 
+[12:28]::Neon: /tweet see you in the afterlife
+[23:47]::TheHellGirl2: /tweet hold on think we found a ride
+[05:46]::Prodr: /sell 
+[22:17]::Vector003: /spawn ruiner2
+[01:36]::The Lone Rebel: /tweet i'm at the pier
+[02:16]::TheHellGirl2: /me applies bandaid
+[08:18]::AeonStryfe: /tweet Come on down to Legion Square everyone. Local Street Musician playing at Legion Square Parking. Tips Appreciated.
+[17:49]::Khaleesi: /announce go connect to the new city this one will be down here is the direct connect 74.91.116.127:30121
+[21:14]::luxbee: /tweet Hay anyone know that hunk Heero's digits? Holla atcha girl
+[23:59]::Spudooty: /tweet thats BS Davis im a medic and was getting her out of the way plus there was too many people talking...

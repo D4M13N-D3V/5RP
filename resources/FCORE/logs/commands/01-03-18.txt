@@ -1,0 +1,8 @@
+//Command logs for 01-02-18
+[01:33]User (Neon) ran admin command spawn, with parameters: spawn statecharger
+[01:54]User (Neon) ran admin command dv, with parameters: dv
+[04:57]User (OG-Fool) ran admin command spawn, with parameters: spawn chevelle1970
+[05:31]User (OG-Fool) ran admin command dv, with parameters: dv
+[14:46]User (OG-Fool) ran admin command dv, with parameters: dv
+[15:30]User (OG-Fool) ran admin command dv, with parameters: dv
+[16:06]User (Vector003) ran admin command spawn, with parameters: spawn 1200rt

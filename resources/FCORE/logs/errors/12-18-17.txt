@@ -1,0 +1,3 @@
+//Error logs for 12-18-17
+[22:02][ERROR - VEHICLESHOP]::Vehicle price is NIL!
+[22:40][ERROR - VEHICLESHOP]::Vehicle price is NIL!

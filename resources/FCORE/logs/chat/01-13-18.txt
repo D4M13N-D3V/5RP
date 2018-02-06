@@ -1,0 +1,42 @@
+//Chat logs for 01-10-18
+[02:51]::Vector003: /dv
+[03:50]::Damien: /noclip
+[04:03]::Damien: /goto 2
+[10:22]::Vector003: /dv
+[10:52]::Vector003: /spawn pd5
+[11:03]::Vector003: /spawn pd7
+[13:04]::Vector003: /pd5
+[13:28]::Vector003: /spawn pd4
+[14:04]::Vector003: /spawn pd8
+[14:34]::Vector003: /dv
+[16:40]::Vector003: /spawn 2015polstang
+[16:57]::Vector003: /spawn pd5
+[17:22]::Damien: /spawn cvpi2blue
+[17:50]::Neon: /dv
+[20:51]::Damien: /copadd 1 state trooper
+[21:38]::Damien: /spawn leo1
+[22:40]::Neon: /dv
+[22:47]::Vector003: /copadd 2 doj
+[22:58]::Neon: /copadd 3 DOJ
+[23:21]::Neon: /copadd 2 doj
+[23:37]::Damien: /copadd 1 county deputy
+[00:03]::Damien: /unrack 2
+[00:18]::Damien: /coppromote  2 county sheriff
+[00:27]::Damien: /coprem 1
+[00:35]::Damien: /unrack m4
+[06:02]::Neon: /dv
+[07:10]::Damien: /readplate
+[08:16]::Damien: /spawn buffalo
+[08:39]::Damien: /spawn buffalo
+[10:24]::Damien: /noclip
+[12:09]::Vector003: /dv
+[13:01]::Damien: /spawn buffalo
+[13:53]::Damien: /dv
+[14:14]::ClassyNinja: 10-4
+[15:19]::Damien: oops
+[22:26]::Lester: black and red chalenger stop fail driving.
+[01:03]::Mezie24: /me says "friend"
+[18:34]::Neon: /coppromote 164 city sergeant
+[19:55]::Damien: :P LS customs is important xd
+[02:33]::Howly BananazZ ツ: /fix
+[22:49]::Moxieperson: /emsadd 205 EMS Paramedic

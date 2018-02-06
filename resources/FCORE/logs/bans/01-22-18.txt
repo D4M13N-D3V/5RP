@@ -1,0 +1,4 @@
+//Ban logs for 01-22-18
+01-22-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[16:20]Ty Dawg | steam:11000010c3ced79 | license:9abbc92b2efbc8d6805c3f8b8101610050d5596b | Permanent | Rdm VDM, Read the rules https://discord.gg/YnyEahs | Palace
+[22:15]DeathBurrito | steam:110000105eeee0a | license:81c0255ff2da173a435d0f4247c2bfdf428127cb | 5000 second(s) | RDM and reptetitive mic spamming | Damien

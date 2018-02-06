@@ -1,0 +1,2 @@
+//Command logs for 12-24-17
+[22:47]User (Neku) ran admin command spawn, with parameters: spawn lguard

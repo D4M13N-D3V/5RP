@@ -1,0 +1,4 @@
+//Ban logs for 01-24-18
+01-24-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[01:21]GoogleIt | steam:11000010bd60068 | license:d3e192a81ffa67ce69fd91981ebe566be11500de | Forever | [ANTI-CHEAT] (Illegal vehicle) [rhino] | Anti-Cheat
+[10:14]Neku | steam:110000104ddfe37 | license:6aa4f994e6b2140be76c2cf0521a4b8b2f2049b2 | Forever | [ANTI-CHEAT] (Illegal vehicle) [blazer5] | Anti-Cheat

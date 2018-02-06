@@ -1,0 +1,42 @@
+//Command logs for 01-10-18
+[02:51]User (Vector003) ran admin command dv, with parameters: dv
+[03:50]User (Damien) ran admin command noclip, with parameters: noclip
+[04:03]User (Damien) ran admin command goto, with parameters: goto 2
+[10:22]User (Vector003) ran admin command dv, with parameters: dv
+[10:52]User (Vector003) ran admin command spawn, with parameters: spawn pd5
+[11:03]User (Vector003) ran admin command spawn, with parameters: spawn pd7
+[13:03]User (Vector003) ran admin command spawn, with parameters: spawn pd4
+[13:28]User (Vector003) ran admin command spawn, with parameters: spawn pd4
+[14:04]User (Vector003) ran admin command spawn, with parameters: spawn pd8
+[14:34]User (Vector003) ran admin command dv, with parameters: dv
+[16:40]User (Vector003) ran admin command spawn, with parameters: spawn 2015polstang
+[16:57]User (Vector003) ran admin command spawn, with parameters: spawn pd5
+[17:22]User (Damien) ran admin command spawn, with parameters: spawn cvpi2blue
+[17:50]User (Neon) ran admin command dv, with parameters: dv
+[20:51]User (Damien) ran admin command copadd, with parameters: copadd 1 state trooper
+[21:38]User (Damien) ran admin command spawn, with parameters: spawn leo1
+[22:40]User (Neon) ran admin command dv, with parameters: dv
+[22:47]User (Vector003) ran admin command copadd, with parameters: copadd 2 doj
+[22:58]User (Neon) ran admin command copadd, with parameters: copadd 3 DOJ
+[23:24]User (Vector003) ran admin command copadd, with parameters: copadd 2 doj
+[23:37]User (Damien) ran admin command copadd, with parameters: copadd 1 county deputy
+[00:01]User (Vector003) ran admin command copadd, with parameters: copadd 3 doj
+[00:18]User (Damien) ran admin command coppromote, with parameters: coppromote 2 county sheriff
+[00:27]User (Damien) ran admin command coprem, with parameters: coprem 1
+[00:35]User (Damien) ran admin command spawn, with parameters: spawn policeb
+[06:02]User (Neon) ran admin command dv, with parameters: dv
+[07:10]User (Damien) ran admin command copadd, with parameters: copadd 1 city chief
+[08:16]User (Damien) ran admin command spawn, with parameters: spawn buffalo
+[08:39]User (Damien) ran admin command spawn, with parameters: spawn buffalo
+[10:24]User (Damien) ran admin command noclip, with parameters: noclip
+[12:09]User (Vector003) ran admin command dv, with parameters: dv
+[13:01]User (Damien) ran admin command spawn, with parameters: spawn buffalo
+[13:53]User (Damien) ran admin command dv, with parameters: dv
+[14:13]User (Damien) ran admin command announce, with parameters: announce City closing again in a min so it isnt laggy during car meet later
+[15:18]User (Damien) ran admin command goto, with parameters: goto 6
+[22:22]User (Damien) ran admin command announce, with parameters: announce Rapture in 5 minutes!
+[01:01]User (Damien) ran admin command dv, with parameters: dv
+[18:34]User (Neon) ran admin command coppromote, with parameters: coppromote 164 city sergeant
+[19:52]User (Damien) ran admin command dv, with parameters: dv
+[02:24]User (WB_Merica) ran admin command dv, with parameters: dv
+[22:49]User (Moxieperson) ran admin command emsadd, with parameters: emsadd 205 EMS Paramedic

@@ -1,0 +1,2 @@
+//Command logs for 01-01-18
+[23:07]User (TarreW [Cpt-Lincoln]) ran admin command copadd, with parameters: copadd 83 cadet

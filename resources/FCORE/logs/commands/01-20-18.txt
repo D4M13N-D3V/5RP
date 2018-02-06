@@ -1,0 +1,6 @@
+//Command logs for 01-20-18
+[06:57]User (MrShmukels09) ran admin command copadd, with parameters: copadd 76 state major
+[07:29]User (Neon) ran admin command dv, with parameters: dv
+[17:22]User (Neon) ran admin command announce, with parameters: announce rapture incoming 2 mins
+[22:16]User (Neku) ran admin command dv, with parameters: dv
+[23:59]User (Palace) ran admin command spawn, with parameters: spawn cla45pol

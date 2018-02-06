@@ -1,0 +1,6 @@
+//Command logs for 01-05-18
+[07:19]User (Vector003) ran admin command dv, with parameters: dv
+[09:39]User (Aidan Biden) tried to execute command without having permission: spawn
+[10:00]User (Aidan Biden) ran admin command dv, with parameters: dv
+[21:26]User (Neku) ran admin command dv, with parameters: dv
+[23:59]User (Neon) ran admin command spawn, with parameters: spawn fireruk2

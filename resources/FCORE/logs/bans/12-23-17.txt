@@ -1,0 +1,4 @@
+//Ban logs for 12-23-17
+12-23-17Display Name | Identifier | License | Duration | Reason | Banned By 
+[01:47]Neku | steam:110000104ddfe37 | license:6aa4f994e6b2140be76c2cf0521a4b8b2f2049b2 | Forever | [ANTI-CHEAT] (Illegal vehicle) [phantom2] | Anti-Cheat
+[17:38]ClassyNinja | steam:110000104fd6248 | license:68c9f6442950ee9482f02fd3c584f664a0decb37 | Forever | [ANTI-CHEAT] (Illegal vehicle) [blimp] | Anti-Cheat

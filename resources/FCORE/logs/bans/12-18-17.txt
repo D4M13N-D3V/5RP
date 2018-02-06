@@ -1,0 +1,3 @@
+//Ban logs for 12-18-17
+12-18-17Display Name | Identifier | License | Duration | Reason | Banned By 
+[22:17]Vector003 | steam:1100001028e95d3 | license:95dd5c4bff7d89702e3e8d25bb6b4d377e557223 | Forever | [ANTI-CHEAT] (Illegal vehicle) [ruiner2] | Anti-Cheat

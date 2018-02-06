@@ -1,0 +1,202 @@
+    <head>
+        <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <center>
+        <img id="logo" src="logo.png"></img>
+        <div class="Form-Container">
+            <div class="Form-Password">
+                <form id="login-form">
+                    <input id="password" type="password" placeholder="Password"><br>
+                    <button id="submit" type="submit">Log In</button>
+                </form>
+            </div>
+            <div class="Form-CChoose">
+                <div class="dialog1">
+                    <form id="Char1">
+                        <p id="char1name">Name: </p>
+                        <p id="char1dob">DOB: </p>
+                        <p id="char1gen">Gender: </p>
+                        <p id="char1height">Height: </p>
+                        <button id="submit" type="submit">Choose Character</button>
+                    </form>
+                    <button id="wipec1">Wipe Character</button>
+                </div>
+                <div class="dialog2">
+                    <form id="Char2">
+                        <p id="char2name">Name: </p>
+                        <p id="char2dob">DOB: </p>
+                        <p id="char2gen">Gender: </p>
+                        <p id="char2height">Height: </p>
+                        <button id="submit2" type="submit">Choose Character</button>
+                    </form>
+                    <button id="wipec2">Wipe Character</button>
+                </div>
+                <div class="dialog3">
+                    <form id="Char3">
+                        <p id="char3name">Name: </p>
+                        <p id="char3dob">DOB: </p>
+                        <p id="char3gen">Gender: </p>
+                        <p id="char3height">Height: </p>
+                        <button id="submit3" type="submit">Choose Character</button>
+                    </form>
+                    <button id="wipec3">Wipe Character</button>
+                </div>
+            </div>
+            <div class="Form-CCreate">
+                <form id="CC-form">
+                    <p>ATTENTION<br>You will not be able to edit any of this data later. Please ensure it is correct.</p>
+                    <input id="first_name" type="text" placeholder="First Name" required pattern="^[a-zA-Z][a-zA-Z-_\.]{1,20}$"><br>
+                    <input id="last_name" type="text" placeholder="Last Name" required pattern="^[a-zA-Z][a-zA-Z-_\.]{1,20}$"><br>
+                    <input id="dob" type="text" placeholder="MM/DD/YYYY" required pattern="(0[1-9]|1[012])\/(0[1-9]|1[0-9]|2[0-9]|3[01])\/[0-9]{4}"><br>
+                    <div class=slider>
+                        <input id='height' type=number placeholder="Enter your height in CM" min=69 max=300 step=1 required>
+                    </div>
+                    <input id ="gen" type="radio" name="gender"  value="male" checked><font color="white"> Male
+                    <input id ="gen2" type="radio" name="gender" value="female"> Female<br>
+                    <p>Please click the red button once!</p>
+                    <button id="submit" type="submit">Create Character</button>
+                <form>
+            </div>
+        </div>
+
+        <div id="Changelog" class="window">
+            <div class="title" style="color:white;">Changelog</div>
+            <div class="log-scroll">
+
+                <div class="changes">
+                	
+                    <div class="scrollbar" id="style-4">
+					
+                        <ul style="list-style-type:circle">
+                           <h4 style="color: rgb(255,0,0)">01-11-2018</h4>
+                           <li style="color:white;">AR's are whitelisted. </li>
+                           <li style="color:white;">Drugs have been rebalanced a bit.</li>
+                           <li style="color:white;">New police cars.</li>
+                           <li style="color:white;">New police uniforms.</li>
+                           <li style="color:white;">New police ranks.</li>
+                           <li style="color:white;">K9 units are now in.</li>
+                           <li style="color:white;">K9 units are now whitelisted.</li>
+                           <li style="color:white;">M4A4 & Shotgun removed from armoury.</li>
+                           <li style="color:white;">Disabled shufflign from passenger to driver seat.</li>
+                           <li style="color:white;">Wheel doesnt snap forward when you get out anymore.</li>
+                           <li style="color:white;">Engine stays on when you get out.</li>
+                           <li style="color:white;">Both black markets have been moved.</li>
+                           <li style="color:white;">Black market (weapons) prices adjusted.</li>
+                           <li style="color:white;">Black market (items) prices adjusted.</li>
+                           <li style="color:white;">Removed armor from Los Santos Customs. (everything above 40%)</li>
+                           <li style="color:white;">Changed name of stores in the UI's.</li>
+                           <li style="color:white;">Added a garage for police ( has no blip )</li>
+                           <li style="color:white;">Added a command for running plates. ( You can provide a plate, if you dont, it just does the car infront of you like the menu ) /runplate plate or /runplate</li>
+                           <li style="color:white;">Added a command for reading plates, keeps the plate showing for 20 seconds. /readplate</li>
+                           <li style="color:white;">Only people with perms greater than 0 can see the kill feed in chat.</li>
+                           <li style="color:white;">It is alot easier for your vehicle to break down now.</li>
+                           <li style="color:white;">Weapon prices in the shops changed</li>
+                           <li style="color:white;">License prices changed.</li>
+                           <li style="color:white;">New animation for civs when pulling out guns.</li>
+                           <li style="color:white;">Lots of small tweaks to things that i cant remmember.</li>
+                           <li style="color:white;">Police have to unrack AR and Shotguns from cars now. 
+To unrack you have to be in car, the commands are
+Shotgun - /unrack pumpshotgun  /unrack shotgun  /unrack 1
+M4A4 - /unrack m4 /unrack m4a4 /unrack 2</li>
+						</ul>
+				
+                 <!--       <ul style="list-style-type:circle">
+                           <h4 style="color: rgb(255,0,0)">01-09-2018</h4>
+                           <li style="color:white;">F2 is now job menu</li>
+                           <li style="color:white;">F1 is now interaction menu</li>
+                           <li style="color:white;">Change fuel button to spacebar</li>
+                           <li style="color:white;">Officers can now revieve(ONLY IF EMS OFF-DUTY)</li>
+                           <li style="color:white;">Updated:siren controls</li>
+                           <li style="color:white;">Q-LIGHTS/R-SIREN TONE CYCLE/LEFT ALT-SIREN TOGGLE</li>
+                           <li style="color:white;">ADDED flashlight to police weapons</li>
+                           <li style="color:white;">add cuff toggle with "K" button</li>   
+						</ul>
+                 <ul style="list-style-type:circle">
+                        <h4 style="color: rgb(255,0,0)">12-12-17</h4>
+                        <li style="color:white;">added fd to ems.</li>
+                        <li style="color:white;">fixed ID pop-ups (aligns with name, etc.)</li>
+                        <li style="color:white;">removed ymaps (should improve framerate, etc.)</li>
+                        <li style="color:white;">added better gui theming for police/ems</li>
+                </ul>
+                <ul style="list-style-type:circle">
+                        <h4 style="color: rgb(255,0,0)">12-10-17</h4>
+                        <li style="color:white;">Server made Public.</li>
+                </ul>
+               <ul style="list-style-type:circle">
+                        <h4 style="color: rgb(241,255,0)">12-08-17</h4>
+                        <li style="color:white;">Changed All Markers.</li>
+                        <li style="color:white;">Fixed Robberies.</li>
+                        <li style="color:white;">Added More Item Stores.</li>
+                        <li style="color:white;">Moved Spawn Location.</li>
+                        <li style="color:white;">Moved Retal Place.</li>
+                        <li style="color:white;">Fixed Apartments (Still WIP).</li>
+                        <li style="color:white;">Fixed Teleports and Locked Doors.</li>
+                        <li style="color:white;">Moved Spawn Location.</li>
+                        <li style="color:white;">Added Gate Back on Public Garage.</li>
+                </ul>
+                <ul style="list-style-type:circle">
+                        <h4 style="color: rgb(241,255,0)">12-07-17</h4>
+                        <li style="color:white;">Changed Job/ Ammunations/ Items store and Carwash Markers.</li>
+                        <li style="color:white;">Will Change More. Only if you Prefer Them.</li>
+                        <li style="color:white;">Added Lockable Cells For Cops.</li>
+                        <li style="color:white;">Fixed Weapon Store with Flashlight and Switchblade.</li>
+                        <li style="color:white;">Added outdoor club area and xmas stuff.</li>
+                        <li style="color:white;">Fixed More General Bugs.</li>
+                </ul>
+                <ul style="list-style-type:circle">
+                        <h4 style="color: rgb(241,255,0)">12-06-17</h4>
+                        <li style="color:white;">Added Sanctus/ Rat Bike and Chimera to Store.</li>
+                        <li style="color:white;">Added Elegy Sport to Store.</li>
+                        <li style="color:white;">Fixed Unmarked CVPI for Cops.</li>
+                        <li style="color:white;">Fixed the FPS Issue.</li>
+                        <li style="color:white;">Made /rp or /r Proximity based.</li>
+                        <li style="color:white;">Removed Robbable stores/ Banks blips from Map.</li>
+                        <li style="color:white;">Fixed More General Bugs.</li>
+                </ul>
+                    <ul style="list-style-type:circle">
+                        <h4 style="color: rgb(241,255,0)">12-03-17</h4>
+                        <li style="color:white;">Added New Carhud/ Speedo</li>
+                        <li style="color:white;">Added New Chat Commands /rp and /ooc.</li>
+                        <li style="color:white;">Added Enterable Apartments</li>
+                        <li style="color:white;">Added More Robbable Banks and Stores.</li>
+                        <li style="color:white;">Added Auto Brakelights.</li>
+                        <li style="color:white;">Added Date/Time Display.</li>
+                        <li style="color:white;">Added Toggle Cruise Control. Press Y.</li>
+                        <li style="color:white;">Added Jail and Other Map Addons.</li>
+                        <li style="color:white;">Added New Police Radar.</li>
+                        <li style="color:white;">Added Police Panic Button. Need to be added to this.</li>
+                        <li style="color:white;">Fixed Other General Bugs.</li>
+                    </ul>
+                <ul style="list-style-type:circle">
+                    <h4 style="color: rgb(241,255,0)">10-18-17</h4>
+                    <li style="color:white;">Changes to the Job System:</li>
+                    <li style="color:white;">Unemployed - $100.</li>
+                    <li style="color:white;">Police - $3500 to $5000.</li>
+                    <li style="color:white;">EMS - $1800 to $5000.</li>
+                    <li style="color:white;">Farmer - $500 to $1500. Item - Mini $120 to $250 Maxi $140 to $350.</li>
+                    <li style="color:white;">LumberJack - $500 to $1500. Item - Mini $160 to $275 Maxi $200 to $425.</li>
+                    <li style="color:white;">Miner - $500 to $1500. Item - Mini $100 to $250 Maxi $160 to $300.</li>
+                    <li style="color:white;">Fishing - $500 to $700. Item - Mini $160 to $250 Maxi $200 to $400.</li>
+                    <li style="color:white;">Docker - $500 to $700.</li>
+                    <li style="color:white;">Brewer - $500 to $1500. Item - Mini $120 to $250 Maxi $160 to $350.</li>
+                    <li style="color:white;">Vigneron - $500 to $1200. Item - Mini $150 to $300 Maxi $160 to $375.</li>
+                    <li style="color:white;">Livreur - $500 to $700.</li>
+                    <li style="color:white;">Mechanic - $900 to $2500</li>
+                    <li style="color:white;">Taxi - $900 to $2500.</li>
+                    <li style="color:white;">Courier - $100 to $600.</li>
+                    <li style="color:white;">Pool Cleaner - $100 to $600.</li>
+                    <li style="color:white;">Garage Collector - $100 to $600.</li>
+                </ul>     -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+        </center>
+        
+        <script src="script.js" type="text/javascript"></script>
+    </body>
+</html>
